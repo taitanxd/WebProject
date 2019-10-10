@@ -1,0 +1,17 @@
+.card {
+    margin: 0 auto;
+    float: none;
+}
+
+section#feature {
+    background-color: #3B3B3B;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+section#background {
+	background-image: url(https://pbs.twimg.com/media/D6qE6waX4AA2qzq.jpg);
+	padding: 200px;
+	text-align: center;
+}
